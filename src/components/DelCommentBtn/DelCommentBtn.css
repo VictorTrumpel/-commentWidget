@@ -1,0 +1,8 @@
+.delCommentBtn {
+    color: darkred;
+    margin-left: 10px;
+}
+
+.delCommentBtn:hover {
+    color: brown;
+}

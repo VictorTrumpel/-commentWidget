@@ -1,0 +1,34 @@
+.commentForm {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: auto;
+    position: relative;
+    background: #17212b;
+}
+
+.commentForm input {
+    background: none;
+    border: none;
+    border-bottom: 2px black solid;
+    height: 50px;
+    padding-left: 20px;
+    outline: none;
+
+}
+
+.commentText-input {
+    min-width: 100%;
+    padding-right: 80px;
+}
+
+.commentForm-submit {
+    position: absolute;
+    bottom: 15%;
+    right: 0;
+    color: #5288c1;
+}
+
+.commentForm-submit:hover {
+    color: whitesmoke;
+}

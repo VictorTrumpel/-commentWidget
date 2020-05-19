@@ -1,0 +1,12 @@
+.itemOfComment {
+    max-width: 300px;
+    background: #182533;
+    margin-left: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.authorCommentName {
+    color: #5288c1;
+}

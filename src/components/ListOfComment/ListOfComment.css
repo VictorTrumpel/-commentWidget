@@ -1,0 +1,10 @@
+.showComment {
+    overflow-y: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.listOfComments {
+    display: flex;
+    flex-direction: column;
+}
